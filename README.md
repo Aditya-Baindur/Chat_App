@@ -9,7 +9,5 @@ You can chat with your friends from accross the world!
 Thanks & Have an awsome day! 
 
 
-- Built a real-time messaging system using Firebase from Google to allow instant
-messaging 
+- Real-time messaging system using Firebase from Google to allow instant messaging 
 
-`hallo ` 
